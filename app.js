@@ -1,6 +1,6 @@
 "use strict";
 // Refactoring
-console.log("Hello guys");
+console.log("Hello dev");
 console.log("update text");
 let changePlayer = function () {
   document.getElementById(`current--${activePlayer}`).textContent = 0;
